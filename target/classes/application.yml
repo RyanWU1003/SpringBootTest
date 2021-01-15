@@ -1,6 +1,0 @@
-spring:
-  datasource:
-    username: watcher
-    password: P@ssw0rd
-    url: jdbc:sqlserver://localhost:1433;databaseName=Topic
-    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
